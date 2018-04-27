@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357284288023",
+    "firebase_url": "https://ltn-bomnuoctudong.firebaseio.com",
+    "project_id": "ltn-bomnuoctudong",
+    "storage_bucket": "ltn-bomnuoctudong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357284288023:android:55291f851a73370f",
+        "android_client_info": {
+          "package_name": "com.krader.bomnuoctudong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357284288023-03lte5rugqr75jjuuq6u7fu96n5ftgj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1_NKk5PIuE7iEve1U0a9qwBcVSGbpWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
